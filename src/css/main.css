@@ -1,0 +1,24 @@
+.chat {
+  width:600px;
+  height: 200px;
+  background: #8faae3;
+}
+.messages {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+.messageForm {
+  word-wrap: break-word;
+  width: inherit;
+  height: inherit;
+  overflow-y: scroll;
+}
+.messageBox {
+  width: 100%;
+}
+li {
+  padding-top: 8px;
+  list-style: none;
+  font: 14px Helvetica, Arial;
+}
